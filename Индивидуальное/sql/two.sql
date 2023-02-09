@@ -1,0 +1,1 @@
+select max(AveragePrice) from avocado
